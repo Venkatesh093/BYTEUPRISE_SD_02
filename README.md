@@ -1,4 +1,5 @@
 Contact Management System
+
 This project is a Contact Management System developed using Java with a graphical user interface (GUI). The application allows users to add, update, delete, and search for contacts in a user-friendly manner.
 
 Features
